@@ -4,7 +4,7 @@ BRANCH="main"
 REPO_ROOT=$(git rev-parse --show-toplevel)
 cd "$REPO_ROOT" || exit 1
 
-# 只显示直接下一级
+# 直接下级，带链接
 gen_simple() {
     local DIR="$1"
     find "$DIR" -maxdepth 2 -type d | sort | while read -r sub; do
@@ -16,7 +16,7 @@ gen_simple() {
     done
 }
 
-# 完整树形：横线缩进
+# 完整缩进树形，带链接
 gen_dash_tree() {
     local root="$1"
     find "$root" -type d | sort | while read -r dir; do
@@ -35,7 +35,6 @@ gen_dash_tree() {
     done
 }
 
-# 遍历所有文件夹生成README
 find "$REPO_ROOT" -type d -not -path '*/.git*' | sort | while read -r DIR; do
     simple=$(gen_simple "$DIR")
     tree=$(gen_dash_tree "$DIR")
@@ -45,14 +44,14 @@ find "$REPO_ROOT" -type d -not -path '*/.git*' | sort | while read -r DIR; do
 在这里写这个文件夹的介绍、分类、备注。
 
 <details>
-<summary>📁 只显示直接下一级文件夹</summary>
+<summary>只显示直接下一级文件夹</summary>
 
 $simple
 
 </details>
 
 <details>
-<summary>📁 完整树形（纯短横线缩进）</summary>
+<summary>完整树形</summary>
 
 $tree
 
@@ -60,4 +59,4 @@ $tree
 MD
     echo "✅ $DIR/README.md"
 done
-echo "✅ 短横线缩进版本生成完成"
+echo "✅ 全部生成完毕，两处都带可点击链接"

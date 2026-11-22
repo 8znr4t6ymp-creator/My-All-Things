@@ -3,7 +3,7 @@
 在这里写这个文件夹的介绍、分类、备注。
 
 <details>
-<summary>📁 只显示直接下一级文件夹</summary>
+<summary>只显示直接下一级文件夹</summary>
 
 - [VS Code Skills](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills)
 - [best](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/best)
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary>📁 完整树形（纯短横线缩进）</summary>
+<summary>完整树形</summary>
 
 - [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills)
   - [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/best)

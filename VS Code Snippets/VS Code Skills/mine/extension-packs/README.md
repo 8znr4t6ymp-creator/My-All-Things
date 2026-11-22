@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary>📁 完整树形（ASCII ├─ └─）</summary>
+<summary>📁 完整树形（纯短横线缩进）</summary>
 
 
 

@@ -29,27 +29,27 @@
 </details>
 
 <details>
-<summary>📁 完整树形（ASCII ├─ └─）</summary>
+<summary>📁 完整树形（纯短横线缩进）</summary>
 
-│  │  ├─ [best](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/best)
-│  │  ├─ [data-science](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/data-science)
-│  │  ├─ [debuggers](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/debuggers)
-│  │  ├─ [education](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/education)
-│  │  ├─ [extension-packs](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/extension-packs)
-│  │  ├─ [formatters](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/formatters)
-│  │  ├─ [keymaps](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/keymaps)
-│  │  ├─ [language-packs](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/language-packs)
-│  │  ├─ [latest](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/latest)
-│  │  ├─ [linters](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/linters)
-│  │  ├─ [machine-learning](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/machine-learning)
-│  │  ├─ [most-used](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/most-used)
-│  │  ├─ [notebooks](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/notebooks)
-│  │  ├─ [other](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/other)
-│  │  ├─ [programming-languages](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/programming-languages)
-│  │  ├─ [scm-providers](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/scm-providers)
-│  │  ├─ [snippets](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/snippets)
-│  │  ├─ [testing](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/testing)
-│  │  ├─ [themes](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/themes)
-│  │  ├─ [visualization](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/visualization)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/best)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/data-science)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/debuggers)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/education)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/extension-packs)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/formatters)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/keymaps)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/language-packs)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/latest)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/linters)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/machine-learning)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/most-used)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/notebooks)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/other)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/programming-languages)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/scm-providers)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/snippets)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/testing)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/themes)
+- [](https://github.com/8znr4t6ymp-creator/My-All-Things/tree/main/VS%20Code%20Snippets/VS%20Code%20Skills/yours/visualization)
 
 </details>

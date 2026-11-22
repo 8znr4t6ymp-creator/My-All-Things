@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary>📁 完整树形（全部下层文件夹展开）</summary>
+<summary>📁 完整树形（ASCII ├─ └─）</summary>
 
 
 
